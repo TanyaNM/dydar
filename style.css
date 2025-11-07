@@ -1,0 +1,96 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #70b3fa;
+}
+header{
+  background-color:#70b3fa;  
+  padding: 15px;
+
+}
+header a{
+    color:white;
+}
+nav{
+    
+}
+main{
+   background-color: #0098de; 
+
+}
+footer{
+    background-color:#064e63 ;
+    margin:0;
+    padding: 0px;
+    
+}
+header h1{
+    text-align: center;
+    color: white;
+    font-size: 65px;
+}
+header nav {
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+} 
+    .wasd{
+padding: 15px;
+    color: #8c00ff;
+    border:3px solid BLACK;
+    text-decoration: none;
+    background-color: #2f1780;
+    border-radius:30px;
+    margin:15px;
+   padding:top;
+    
+    
+}
+.qwerty{
+    text-align: center;
+    border-radius: 40px;
+    margin: 10px;
+}
+.vbnm{
+    text-align: left;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: blue;
+}
+hr{
+    color: black;
+}
+main h1{
+    color: white;
+    text-align: center;
+}
+main h2{
+    color: white;
+    font-size: 20px;
+}
+main p{
+    color: #2e4854;
+}
+main h3{
+    color: white;
+    font-size: 15px;
+}
+main h4{
+    font-size: 10px;
+}
+.foot21{
+    color: white;
+}
+ol{
+    color: 
+#012029
+;
+}
+footer h3{
+    color: gray;
+    font-size: 15px;
+    padding: 30px;
+
+}
